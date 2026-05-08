@@ -18,9 +18,7 @@ This project uses Computer Vision to assist in medical imaging diagnosis. It fea
 - **Features:** Automatic skull-stripping/cropping, probability-based diagnosis, and real-time interactive UI.
 
 ## How to Use
-1. Clone the repository: `git clone https://github.com/YOUR_USERNAME/Brain-Tumor-Detection-AI.git`
+1. Clone the repository: `git clone https://github.com/azebel1727/Brain-Tumor-Detection-AI.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the notebook in Google Colab or Jupyter to launch the Gradio interface.
 
-## Demo
-![UI Screenshot](./images/screenshot1.png)
